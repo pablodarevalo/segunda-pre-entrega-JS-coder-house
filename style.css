@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+#slides{
+    margin-top: 10px;
+    display: flex;
+    justify-content:center;
+    height: 450px;
+}
+
+#titulo{
+    text-align: center;
+}
+
+section{
+
+    margin-top: 20px;
+}
+
+#logo{
+    height: 100px ;
+    width: 100%;
+}
+
+#section{
+    margin-bottom: 10px;
+    border-bottom: 1px solid white;
+}
+
+#cards{
+
+    margin-bottom: 10px;
+}
+
+#logoCarrito{
+    height: 50px;
+}
+
+
+
+/*Pagina de carrito */
+
+
+#espacioDeCompra{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 600px;
+    width: 100%;
+}
+
+#productoAnadido{
+    border-right: 1px solid black;
+}
+
+#compraStyle{
+    text-decoration: underline;
+}
